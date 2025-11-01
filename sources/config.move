@@ -30,4 +30,3 @@ public fun get_criteria_submit(): u64 {CriteriaSubmit}
 
 /// Returns the event creation fee
 public fun get_event_creation_fee(): u64 {SUIEventCreationFee}
-
